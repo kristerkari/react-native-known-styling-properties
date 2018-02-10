@@ -30,7 +30,7 @@ import { allProps } from "react-native-known-styling-properties";
 To get list of all styling properties supported by [css-to-react-native](https://github.com/styled-components/css-to-react-native):
 
 ```js
-import { allRN2CSSProps } from "react-native-known-styling-properties";
+import { allCSS2RNProps } from "react-native-known-styling-properties";
 ```
 
 The result is an array of supported styling properties:

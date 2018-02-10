@@ -111,7 +111,7 @@ export const reactNativeProps = [
   "writingDirection"
 ];
 
-export const RN2CSSProps = [
+export const CSS2RNProps = [
   "border",
   "boxShadow",
   "flexFlow",
@@ -134,4 +134,4 @@ export const allProps = flatten([
   reactNativeProps
 ]);
 
-export const allRN2CSSProps = flatten([allProps, RN2CSSProps]);
+export const allCSS2RNProps = flatten([allProps, CSS2RNProps]);
