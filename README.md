@@ -4,8 +4,8 @@ List of known React Native specific styling properties.
 
 Sources for supported properties:
 
-* https://github.com/vhpoet/react-native-styling-cheat-sheet
-* https://github.com/styled-components/css-to-react-native/tree/master/src/__tests__
+* [react-native-styling-cheat-sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet)
+* [css-to-react-native tests](https://github.com/styled-components/css-to-react-native/tree/master/src/__tests__)
 
 ## Install
 
