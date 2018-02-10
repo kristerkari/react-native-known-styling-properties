@@ -1,9 +1,9 @@
 {
   "name": "react-native-known-styling-properties",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "List of known React Native specific styling properties.",
   "main": "dist/index.js",
-  "files": ["dist", "src", "README.md"],
+  "files": ["dist", "src", "CHANGELOG.md", "README.md"],
   "scripts": {
     "precommit": "lint-staged",
     "prepublish": "npm run build",
