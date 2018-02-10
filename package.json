@@ -1,7 +1,7 @@
 {
   "name": "react-native-known-styling-properties",
   "version": "1.0.0",
-  "description": "",
+  "description": "List of known React Native specific styling properties.",
   "main": "dist/index.js",
   "files": ["dist", "src", "README.md"],
   "scripts": {
