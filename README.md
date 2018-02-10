@@ -1,6 +1,6 @@
 # React Native styling properties
 
-[![NPM version](https://img.shields.io/npm/v/stylelint-react-native.svg)](https://www.npmjs.com/package/stylelint-react-native)
+[![NPM version](https://img.shields.io/npm/v/react-native-known-styling-properties.svg)](https://www.npmjs.com/package/react-native-known-styling-properties)
 [![Build Status](https://travis-ci.org/kristerkari/react-native-known-styling-properties.svg?branch=master)](https://travis-ci.org/kristerkari/react-native-known-styling-properties)
 [![Build status](https://ci.appveyor.com/api/projects/status/4upf25j0k8d866s0/branch/master?svg=true)](https://ci.appveyor.com/project/kristerkari/react-native-known-styling-properties/branch/master)
 
