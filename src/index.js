@@ -7,11 +7,15 @@ function flatten(arr) {
 }
 
 export const flexboxProps = [
+  "alignContent",
   "alignItems",
   "alignSelf",
   "flex",
+  "flexBasis",
   "flexDirection",
+  "flexGrow",
   "flexWrap",
+  "flexShrink",
   "justifyContent"
 ];
 
@@ -44,6 +48,7 @@ export const positioningProps = [
 ];
 
 export const boxModelProps = [
+  "display",
   "height",
   "minHeight",
   "maxHeight",
@@ -89,8 +94,12 @@ export const fontProps = [
   "letterSpacing"
 ];
 
+export const writingModeProps = ["direction"];
+
 export const reactNativeProps = [
   "elevation",
+  "borderStartColor",
+  "borderEndColor",
   "textAlignVertical",
   "textShadowColor",
   "textShadowOffset",
@@ -108,7 +117,8 @@ export const reactNativeProps = [
   "resizeMode",
   "tintColor",
   "overlayColor",
-  "writingDirection"
+  "writingDirection",
+  "includeFontPadding"
 ];
 
 export const CSS2RNProps = [
@@ -131,6 +141,7 @@ export const allProps = flatten([
   backgroundProps,
   colorProps,
   fontProps,
+  writingModeProps,
   reactNativeProps
 ]);
 
