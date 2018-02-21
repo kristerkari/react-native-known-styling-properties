@@ -1,3 +1,7 @@
+## v1.0.3
+
+* Fixed: Added missing "end" properties from React Native documentation.
+
 ## v1.0.2
 
 * Fixed: Added missing properties from React Native documentation.
