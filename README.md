@@ -3,6 +3,7 @@
 [![NPM version](https://img.shields.io/npm/v/react-native-known-styling-properties.svg)](https://www.npmjs.com/package/react-native-known-styling-properties)
 [![Build Status](https://travis-ci.org/kristerkari/react-native-known-styling-properties.svg?branch=master)](https://travis-ci.org/kristerkari/react-native-known-styling-properties)
 [![Build status](https://ci.appveyor.com/api/projects/status/4upf25j0k8d866s0/branch/master?svg=true)](https://ci.appveyor.com/project/kristerkari/react-native-known-styling-properties/branch/master)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 
 List of known React Native specific styling properties.
 
