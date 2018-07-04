@@ -1,3 +1,7 @@
+## v1.0.4
+
+* Added: `textTransform` property.
+
 ## v1.0.3
 
 * Fixed: Added missing "end" properties from React Native documentation.
