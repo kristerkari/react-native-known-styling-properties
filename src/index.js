@@ -91,6 +91,7 @@ export const fontProps = [
   "textDecorationLine",
   "textDecorationColor",
   "textDecorationStyle",
+  "textTransform",
   "letterSpacing"
 ];
 
