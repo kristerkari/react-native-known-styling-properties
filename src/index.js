@@ -131,7 +131,8 @@ export const reactNativeProps = [
   "tintColor",
   "overlayColor",
   "writingDirection",
-  "includeFontPadding"
+  "includeFontPadding",
+  "aspectRatio"
 ];
 
 export const CSS2RNProps = [
