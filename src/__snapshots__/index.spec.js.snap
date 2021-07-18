@@ -221,5 +221,6 @@ Array [
   "font",
   "textDecoration",
   "textShadow",
+  "placeContent",
 ]
 `;

@@ -141,7 +141,8 @@ export const CSS2RNProps = [
   "flexFlow",
   "font",
   "textDecoration",
-  "textShadow"
+  "textShadow",
+  "placeContent"
 ];
 
 export const allProps = flatten([
