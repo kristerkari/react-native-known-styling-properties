@@ -1,14 +1,9 @@
 {
   "name": "react-native-known-styling-properties",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "List of known React Native specific styling properties.",
   "main": "dist/index.js",
-  "files": [
-    "dist",
-    "src",
-    "CHANGELOG.md",
-    "README.md"
-  ],
+  "files": ["dist", "src", "CHANGELOG.md", "README.md"],
   "scripts": {
     "precommit": "lint-staged",
     "prepublish": "npm run build",
@@ -20,14 +15,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kristerkari/react-native-known-styling-properties.git"
+    "url":
+      "git+https://github.com/kristerkari/react-native-known-styling-properties.git"
   },
   "author": "Krister Kari",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kristerkari/react-native-known-styling-properties/issues"
+    "url":
+      "https://github.com/kristerkari/react-native-known-styling-properties/issues"
   },
-  "homepage": "https://github.com/kristerkari/react-native-known-styling-properties#readme",
+  "homepage":
+    "https://github.com/kristerkari/react-native-known-styling-properties#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
@@ -44,15 +42,10 @@
     "rimraf": "^2.6.2"
   },
   "lint-staged": {
-    "*.{js,md,json}": [
-      "prettier --write",
-      "git add"
-    ]
+    "*.{js,md,json}": ["prettier --write", "git add"]
   },
   "babel": {
-    "presets": [
-      "es2015"
-    ]
+    "presets": ["es2015"]
   },
   "eslintConfig": {
     "parserOptions": {
@@ -64,9 +57,7 @@
       "jest/globals": true
     },
     "extends": "eslint:recommended",
-    "plugins": [
-      "jest"
-    ],
+    "plugins": ["jest"],
     "rules": {
       "jest/no-disabled-tests": "warn",
       "jest/no-focused-tests": "error",
