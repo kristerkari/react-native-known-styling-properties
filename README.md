@@ -1,17 +1,16 @@
 # React Native styling properties
 
 [![NPM version](https://img.shields.io/npm/v/react-native-known-styling-properties.svg)](https://www.npmjs.com/package/react-native-known-styling-properties)
-[![Build Status](https://travis-ci.org/kristerkari/react-native-known-styling-properties.svg?branch=master)](https://travis-ci.org/kristerkari/react-native-known-styling-properties)
-[![Build status](https://ci.appveyor.com/api/projects/status/4upf25j0k8d866s0/branch/master?svg=true)](https://ci.appveyor.com/project/kristerkari/react-native-known-styling-properties/branch/master)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+[![Build Status](https://github.com/kristerkari/react-native-known-styling-properties/workflows/Tests/badge.svg)](https://github.com/kristerkari/react-native-known-styling-properties/actions?workflow=Tests)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 
 List of known React Native specific styling properties.
 
 Sources for supported properties:
 
-* [React Native documentation](https://facebook.github.io/react-native/docs/layout-props.html)
-* [react-native-styling-cheat-sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet)
-* [css-to-react-native tests](https://github.com/styled-components/css-to-react-native/tree/master/src/__tests__)
+- [React Native documentation](https://facebook.github.io/react-native/docs/layout-props.html)
+- [react-native-styling-cheat-sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet)
+- [css-to-react-native tests](https://github.com/styled-components/css-to-react-native/tree/master/src/__tests__)
 
 ## Install
 
