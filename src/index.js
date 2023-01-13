@@ -1,5 +1,5 @@
 function flatten(arr) {
-  return arr.reduce(function(flat, toFlatten) {
+  return arr.reduce(function (flat, toFlatten) {
     return flat.concat(
       Array.isArray(toFlatten) ? flatten(toFlatten) : toFlatten
     );
@@ -16,7 +16,10 @@ export const flexboxProps = [
   "flexGrow",
   "flexWrap",
   "flexShrink",
-  "justifyContent"
+  "justifyContent",
+  "rowGap",
+  "columnGap",
+  "gap"
 ];
 
 export const borderProps = [
