@@ -41,7 +41,7 @@
     "npmpub": "^5.0.0",
     "prettier": "^2.3.2",
     "regenerator-runtime": "^0.13.9",
-    "rimraf": "^3.0.2"
+    "rimraf": "^4.0.7"
   },
   "lint-staged": {
     "*.{js,md,json}": [
