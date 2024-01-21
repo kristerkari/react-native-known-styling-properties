@@ -38,6 +38,7 @@ export const borderProps = [
   "borderRightColor",
   "borderTopColor",
   "borderBottomColor",
+  "borderBlockColor",
   "borderStyle"
 ];
 
@@ -77,7 +78,11 @@ export const paddingProps = [
   "paddingTop"
 ];
 
-export const transformProps = ["transform", "backfaceVisibility"];
+export const transformProps = [
+  "transform",
+  "transformOrigin",
+  "backfaceVisibility"
+];
 
 export const backgroundProps = ["background", "backgroundColor"];
 
@@ -95,7 +100,8 @@ export const fontProps = [
   "textDecorationColor",
   "textDecorationStyle",
   "textTransform",
-  "letterSpacing"
+  "letterSpacing",
+  "userSelect"
 ];
 
 export const writingModeProps = ["direction"];
@@ -112,6 +118,12 @@ export const reactNativeProps = [
   "borderBottomStartRadius",
   "borderTopEndRadius",
   "borderTopStartRadius",
+  "borderBlockEndColor",
+  "borderBlockStartColor",
+  "borderEndEndRadius",
+  "borderEndStartRadius",
+  "borderStartEndRadius",
+  "borderStartStartRadius",
   "textAlignVertical",
   "textShadowColor",
   "textShadowOffset",
@@ -128,8 +140,6 @@ export const reactNativeProps = [
   "paddingVertical",
   "paddingEnd",
   "paddingStart",
-  "decomposedMatrix",
-  "transformMatrix",
   "resizeMode",
   "tintColor",
   "overlayColor",
