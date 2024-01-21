@@ -14,7 +14,7 @@
     "prepublish": "npm run build",
     "prebuild": "rimraf dist",
     "build": "babel src --ignore index.spec.js --out-dir dist",
-    "release": "npmpub",
+    "release": "np",
     "lint": "eslint src/**/*.js",
     "test": "jest"
   },
@@ -38,7 +38,7 @@
     "husky": "^8.0.1",
     "jest": "21.2.1",
     "lint-staged": "^15.2.0",
-    "npmpub": "^5.0.0",
+    "np": "^9.2.0",
     "prettier": "^3.0.0",
     "regenerator-runtime": "^0.14.0",
     "rimraf": "^5.0.1"
