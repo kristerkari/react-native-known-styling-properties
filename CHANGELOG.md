@@ -1,3 +1,9 @@
+## v1.3.0
+
+- Added: support for `borderBlockColor`, `transformOrigin`, `userSelect` properties.
+- Added: support for `borderBlockEndColor`, `borderBlockStartColor`, `borderEndEndRadius`, `borderEndStartRadius`, `borderStartEndRadius`, `borderStartStartRadius` properties.
+- Removed: `decomposedMatrix` and `transformMatrix` properties.
+
 ## v1.2.0
 
 - Added: support for `rowGap`, `columnGap`, and `gap` properties.
