@@ -34,7 +34,7 @@
     "babel-jest": "23.6.0",
     "babel-preset-es2015": "^6.24.1",
     "eslint": "^8.19.0",
-    "eslint-plugin-jest": "^27.1.6",
+    "eslint-plugin-jest": "^28.5.0",
     "husky": "^9.0.11",
     "jest": "21.2.1",
     "lint-staged": "^15.2.0",
